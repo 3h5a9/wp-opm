@@ -1,6 +1,6 @@
 === OPM ===
 
-Contributors: automattic
+Contributors: onepixmedia
 Tags: translation-ready, custom-background, theme-options, custom-menu, post-formats, threaded-comments
 
 Requires at least: 4.0
@@ -13,8 +13,7 @@ A starter theme called OPM, or underscores.
 
 == Description ==
 
-Hi. I'm a starter theme called OPM, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for.
-
+Hi. I'm a starter theme called OPM based on underscores, if you like. 
 == Installation ==
 
 1. In your admin panel, go to Appearance > Themes and click the Add New button.
@@ -25,11 +24,9 @@ Hi. I'm a starter theme called OPM, or underscores, if you like. I'm a theme mea
 
 = Does this theme support any plugins? =
 
-OPM includes support for Infinite Scroll in Jetpack.
-
 == Changelog ==
 
-= 1.0 - May 12 2015 =
+= 1.0 - August 7 2016 =
 * Initial release
 
 == Credits ==

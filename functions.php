@@ -2,8 +2,6 @@
 /**
  * OPM functions and definitions.
  *
- * @link https://developer.wordpress.org/themes/basics/theme-functions/
- *
  * @package OPM
  */
 
@@ -82,8 +80,6 @@ add_action( 'after_setup_theme', 'opm_content_width', 0 );
 
 /**
  * Register widget area.
- *
- * @link https://developer.wordpress.org/themes/functionality/sidebars/#registering-a-sidebar
  */
 function opm_widgets_init() {
 	register_sidebar( array(
@@ -133,8 +129,3 @@ require get_template_directory() . '/inc/extras.php';
  * Customizer additions.
  */
 require get_template_directory() . '/inc/customizer.php';
-
-/**
- * Load Jetpack compatibility file.
- */
-require get_template_directory() . '/inc/jetpack.php';
